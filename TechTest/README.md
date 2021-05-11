@@ -1,5 +1,5 @@
 # test_app
-
+APP TESTED ON Pixel XL API 27
 This is a technical app for a job application to be a summer intern at SalonEverywhere.
 ToDo:
 1) Create an app that can log in and sign up users using amplify **DONE**
