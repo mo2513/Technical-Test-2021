@@ -18,6 +18,8 @@ INSTRUCTIONS:
 	Recurring User:
 		Sign in, and enjoy even more
 		
+	Password must be at least 8 digits (for ex for testing i did 1111111111) Not a good pasword but hey its easy to test.
+		
 		
 		
 
